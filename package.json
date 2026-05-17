@@ -1,17 +1,14 @@
 {
-  "name": "fisjk",
-  "version": "12.0.0",
-  "description": "nio njjdhr hf",
+  "name": "nomodonom",
+  "version": "5.0.0",
+  "description": "Dodoool ala",
   "private": true,
-  "license": "GPL-3.0",
-  "author": "avaco_cloud",
-  "homepage": "https://github.com/avacocloud/XHTTP-Installer",
+  "license": "MIT",
   "scripts": {
     "dev": "netlify dev",
     "build": "echo 'No build step required'"
   },
   "devDependencies": {
     "netlify-cli": "latest"
-  },
-  "buildId": "avc-7f3a92e1-2025-avacocloud"
+  }
 }
